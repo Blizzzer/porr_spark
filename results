@@ -1,0 +1,25 @@
+12 mrówek
+------------------------
+XL macierz 40x40 - 9 cykli
+Seq - 15
+Parrarel - 73
+
+XL macierz 60x60 - 9 cykli
+Seq - 48
+Parrarel - 80
+
+XXL macierz 80x80 - 9 cykli
+Seq - 117 s
+Parrarel - 85s
+
+XXXL macierz 120x120 - 9 cykli
+Seq - 385s
+Parrarel - 126s
+
+XXXXL macierz 160x160 - 9 cykli
+Seq - 900s
+Parrarel - 193s
+
+XXXXXL macierz 200x200 - 9 cykli
+Seq - 1722s
+Parrarel - 302s
